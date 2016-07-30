@@ -28,10 +28,9 @@
  * [input的宫格输入和shift多选](https://github.com/dwqs/blog/issues/12)
  
 ###2016-01
+ * [10个Chrome搜索技巧](https://github.com/dwqs/blog/issues/2)
+ * [16个不错的git别名](https://github.com/dwqs/blog/issues/3)
  * [2015个人总结](https://github.com/dwqs/blog/issues/13)
 
 
-###2016-01
- * [10个Chrome搜索技巧](https://github.com/dwqs/blog/issues/2)
- * [16个不错的git别名](https://github.com/dwqs/blog/issues/new)
 

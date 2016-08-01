@@ -1,6 +1,6 @@
 **原来的博客地址:** [**淡忘~浅思**](http://www.ido321.com/) **会再保留2个月左右的时间，等到将上面的部分博文迁移到此处之后，****将关闭原博客。**
 
-原来的博客将不再更新文章。
+原来的博客将不再更新文章。**欢迎star & watch,不要fork**
 
 * 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
 * QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)

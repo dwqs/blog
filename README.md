@@ -49,18 +49,18 @@
  * [从作用域链谈闭包](https://github.com/dwqs/blog/issues/18)
  
 ###2015-07
- * [Gulp不完全入门教程]
- * [29个你必须知道的Linux命令]
+ * [Gulp不完全入门教程](https://github.com/dwqs/blog/issues/23)
+ * [29个你必须知道的Linux命令](https://github.com/dwqs/blog/issues/24)
 
 ###2015-06
- * [JavaScript面向对象精要(二)]
- * [JavaScript面向对象精要(一)]
+ * [JavaScript面向对象精要(二)](https://github.com/dwqs/blog/issues/25)
+ * [JavaScript面向对象精要(一)](https://github.com/dwqs/blog/issues/26)
  
  
 ###2015-05 
  * [JavaScript面试问题：事件委托和this](https://github.com/dwqs/blog/issues/19)
- * [有趣的JavaScript原生数组函数]
- * [CSS3的content属性详解]
+ * [有趣的JavaScript原生数组函数](https://github.com/dwqs/blog/issues/27)
+ * [CSS3的content属性详解](https://github.com/dwqs/blog/issues/28)
 
 ###2015-04
  * [15个必须知道的chrome开发者技巧]

@@ -63,16 +63,16 @@
  * [CSS3的content属性详解](https://github.com/dwqs/blog/issues/28)
 
 ###2015-04
- * [15个必须知道的chrome开发者技巧]
+ * [15个必须知道的chrome开发者技巧](https://github.com/dwqs/blog/issues/29)
 
 ###2015-03
- * [Linux的文件权限]
+ * [Linux的文件权限](https://github.com/dwqs/blog/issues/30)
  
 ###2014-11
- * [CSS：7个你可能不认识的单位]
+ * [CSS：7个你可能不认识的单位](https://github.com/dwqs/blog/issues/31)
 
 ###2014-09
- * [九个Console命令，让js调试更简单]
+ * [九个Console命令，让js调试更简单](https://github.com/dwqs/blog/issues/32)
 
 
 

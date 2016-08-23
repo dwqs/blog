@@ -28,7 +28,8 @@ module.exports = {
         }, {
             test: /\.jsx?$/,
             exclude: /node_modules/,
-            loader: 'babel'
+            loader: 'babel?presets[]=react,presets[]=es2015,presets[]=stage-1'
+            //loader: 'babel'
         }]
     },
 

@@ -25,7 +25,17 @@ export default class TodoList extends Component{
     }
 
     add() {
-        this.props.addTodo(this.state.val);
+        //sync
+        //this.props.addTodo(this.state.val);
+
+        //async with thunk
+        //this.props.addTodoWithThunk(this.state.val);
+
+        //async with custom
+        //this.props.addTodoWithCustom(this.state.val);
+
+        //async with promise
+        this.props.addTodoWithPromise(this.state.val)
     }
 
     render(){

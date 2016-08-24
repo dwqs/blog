@@ -30,7 +30,9 @@
     "react-redux": "^4.4.5",
     "react-router": "^2.4.1",
     "redux": "^3.5.2",
-    "redux-actions": "^0.10.1"
+    "redux-actions": "^0.10.1",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.1.0"
   },
   "maintainers": [
     {

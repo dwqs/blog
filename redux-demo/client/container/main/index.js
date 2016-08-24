@@ -6,7 +6,7 @@
 
 import {connect} from 'react-redux';
 
-import {addTodo} from '../../redux/actions/index';
+import {addTodo,addTodoWithThunk,addTodoWithCustom,addTodoWithPromise} from '../../redux/actions/index';
 
 import TodoList from '../../general/to-do-list/index';
 
@@ -20,6 +20,15 @@ function mapDispatchToProps (dispatch) {
     return {
         addTodo:(val) => {
             dispatch(addTodo(val));
+        },
+        addTodoWithThunk:(val)=>{
+            dispatch(addTodoWithThunk(val));
+        },
+        addTodoWithCustom:(val)=>{
+            dispatch(addTodoWithCustom(val));
+        },
+        addTodoWithPromise:(val)=>{
+            dispatch(addTodoWithPromise(val));
         }
     }
 }

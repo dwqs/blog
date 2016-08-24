@@ -8,7 +8,6 @@
 import './index.less';
 
 import React,{Component} from 'react';
-import Test from './test';
 
 export default class TodoList extends Component{
 
@@ -39,7 +38,6 @@ export default class TodoList extends Component{
                     <input type="text" placeholder="添加一条Todo" onChange={this.valueChange.bind(this)}/>
                     <span onClick={this.add.bind(this)}>添加</span>
                 </div>
-                <Test val={todoList.list.length}/>
                 <ul className="list">
                     {
                         todoList.list.map((item,index)=>{

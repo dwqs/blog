@@ -7,6 +7,9 @@
 
 ##文章列表
 
+###2016-08
+ * [关于Redux的一些总结(一)](https://github.com/dwqs/blog/issues/35)
+
 ###2016-07
  * [关于Promise:你可能不知道的6件事](https://github.com/dwqs/blog/issues/1)
  

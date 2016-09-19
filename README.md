@@ -3,6 +3,9 @@
 
 ##文章列表
 
+###2016-09
+ * [关于Redux的一些总结(二)：组件拆分 & connect](https://github.com/dwqs/blog/issues/38)
+
 ###2016-08
  * [关于Redux的一些总结(一)：Action & 中间件 & 异步](https://github.com/dwqs/blog/issues/35)
 

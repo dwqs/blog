@@ -3,6 +3,10 @@
 
 ##文章列表
 
+###2016-10
+
+ * [怎么解决RN TextInput 被键盘遮挡的问题](https://github.com/dwqs/blog/issues/39)
+
 ###2016-09
  * [关于Redux的一些总结(二)：组件拆分 & connect](https://github.com/dwqs/blog/issues/38)
 

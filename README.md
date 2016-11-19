@@ -3,6 +3,10 @@
 
 ##文章列表
 
+###2016-11
+
+ * [10个NPM使用技巧](https://github.com/dwqs/blog/issues/40)
+
 ###2016-10
 
  * [怎么解决RN TextInput 被键盘遮挡的问题](https://github.com/dwqs/blog/issues/39)

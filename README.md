@@ -5,6 +5,7 @@
 
 ###2016-11
 
+ * [详解React Native动画](https://github.com/dwqs/blog/issues/41)
  * [10个NPM使用技巧](https://github.com/dwqs/blog/issues/40)
 
 ###2016-10

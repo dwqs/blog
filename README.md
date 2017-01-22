@@ -3,6 +3,10 @@
 
 ##文章列表
 
+###2017-01
+
+* [Webpack 2 快速入门](https://github.com/dwqs/blog/issues/46)
+
 ###2016-12
 
  * [客户端(浏览器端)数据存储技术概览](https://github.com/dwqs/blog/issues/42)

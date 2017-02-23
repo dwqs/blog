@@ -1,3 +1,42 @@
+```
+let t = true;
+let n = 1;
+let s = 'sdasd';
+
+class Tsd extends sd {
+
+}
+
+function sdas(sdasd,sdasd){}
+
+let sdas = function(sdas){}
+
+//comment
+
+<html>
+     <meta charset="utf-8" />
+     <body>
+         <div class="sd">sdasd</div>
+    </body>
+</html>
+
+#sdasd{
+    color: ' red'
+}
+
+.csd{}
+
+div{
+}
+
+div:before{
+}
+
+[sd='sdas']{
+
+}
+```
+
 * 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
 * QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)
 

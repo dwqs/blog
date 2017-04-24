@@ -3,6 +3,10 @@
 
 ## 文章列表
 
+### 2017-04
+
+* [如何在 Vue.js 中使用第三方库](https://github.com/dwqs/blog/issues/51)
+
 ### 2017-03
 
 * [JavaScript错误处理和堆栈追踪](https://github.com/dwqs/blog/issues/49)

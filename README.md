@@ -5,7 +5,7 @@
 
 ### 2017-05
 
-* [Webpack 2 常见的优化措施](https://github.com/dwqs/blog/issues/52)
+* [Webpack 2 中一些常见的优化措施](https://github.com/dwqs/blog/issues/52)
 
 ### 2017-04
 

@@ -3,6 +3,10 @@
 
 ## 文章列表
 
+### 2017-05
+
+* [Webpack 2 常见的优化措施](https://github.com/dwqs/blog/issues/52)
+
 ### 2017-04
 
 * [如何在 Vue.js 中使用第三方库](https://github.com/dwqs/blog/issues/51)

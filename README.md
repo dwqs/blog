@@ -5,6 +5,7 @@
 
 ### 2017-06
 
+* [vue-router 源码分析-History](https://github.com/dwqs/blog/issues/55)
 * [vue-router 源码分析-组件](https://github.com/dwqs/blog/issues/54)
 * [vue-router 源码分析-整体流程](https://github.com/dwqs/blog/issues/53)
 

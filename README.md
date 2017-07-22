@@ -11,7 +11,7 @@
 
 ### 2017-05
 
-* [Webpack 2 中一些常见的优化措施](https://github.com/dwqs/blog/issues/52)
+* [Webpack 2/3 中一些常见的优化措施](https://github.com/dwqs/blog/issues/52)
 
 ### 2017-04
 
@@ -23,7 +23,7 @@
 
 ### 2017-01
 
-* [Webpack 2 快速入门](https://github.com/dwqs/blog/issues/46)
+* [Webpack 2/3 快速入门](https://github.com/dwqs/blog/issues/46)
 
 ### 2016-12
 

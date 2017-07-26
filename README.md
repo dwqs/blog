@@ -3,6 +3,10 @@
 
 ## 文章列表
 
+### 2017-07
+
+* [从vue-cli源码学习如何写模板](https://github.com/dwqs/blog/issues/56)
+
 ### 2017-06
 
 * [vue-router 源码分析-History](https://github.com/dwqs/blog/issues/55)

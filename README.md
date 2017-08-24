@@ -1,6 +1,3 @@
-* 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
-* QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)
-
 ## 文章列表
 
 ### 2017-07

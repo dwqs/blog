@@ -1,4 +1,7 @@
 ## 文章列表
+### 2018-05
+* [避免陷入 async/await 地狱](https://github.com/dwqs/blog/issues/65)
+
 ### 2018-04
 * [处理 undefined 值的7个建议](https://github.com/dwqs/blog/issues/64)
 

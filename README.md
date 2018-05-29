@@ -1,5 +1,6 @@
 ## 文章列表
 ### 2018-05
+* [ES6 Class Methods 定义方式的差异](https://github.com/dwqs/blog/issues/67)
 * [数制基础](https://github.com/dwqs/blog/issues/66)
 * [How to escape async/await hell](https://github.com/dwqs/blog/issues/65)
 

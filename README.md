@@ -1,4 +1,6 @@
 ## 文章列表
+### 2018-07
+* [浅说 XSS 和 CSRF](https://github.com/dwqs/blog/issues/68)
 ### 2018-05
 * [数制基础](https://github.com/dwqs/blog/issues/66)
 * [How to escape async/await hell](https://github.com/dwqs/blog/issues/65)

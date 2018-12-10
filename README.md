@@ -5,6 +5,7 @@ Shopee 2C 业务群正在招初高级前端，职位要求看这：[前端开发
 * [图片和视频的懒加载](https://github.com/dwqs/blog/issues/74)
 
 ### 2018-11
+* [react-virtualized 组件的虚拟列表优化分析](https://github.com/dwqs/blog/issues/73)
 * [react-virtualized 组件的虚拟列表实现](https://github.com/dwqs/blog/issues/72)
 
 ### 2018-10

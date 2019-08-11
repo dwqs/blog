@@ -2,6 +2,9 @@
 Shopee 2C 业务群正在招初高级前端，职位要求看这：[前端开发工程师-JD](https://app.mokahr.com/recommendation-apply/shopee#/job/36abaf73-ceed-4422-9ac7-958a0c5365e7?_k=4npcpl)，如果你有兴趣，欢迎通过邮件找我：pomysky@gmail.com。如果你对[其它技术类岗位](https://app.mokahr.com/recommendation-apply/shopee#/jobs?page=1&zhineng=9055&isCampusJob=0&_k=qflgts)感兴趣，也欢迎来撩 :blush::blush::blush:。
 
 ## 文章列表
+### 2019-08
+* [从 Hello World 看 RN 的启动流程(一)](https://github.com/dwqs/blog/issues/75)
+
 ### 2018-12
 * [图片和视频的懒加载](https://github.com/dwqs/blog/issues/74)
 

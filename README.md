@@ -4,6 +4,7 @@ Shopee 2C 业务群正在招初高级前端，职位要求看这：[前端开发
 ## 文章列表
 ### 2019-08
 * [从 Hello World 看 RN 的启动流程(一)](https://github.com/dwqs/blog/issues/75)
+* [从 Hello World 看 RN 的启动流程(二)](https://github.com/dwqs/blog/issues/76)
 
 ### 2018-12
 * [图片和视频的懒加载](https://github.com/dwqs/blog/issues/74)

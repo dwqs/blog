@@ -1,4 +1,7 @@
 ## 文章列表
+### 2024-11
+* [HarmonyOS第一课--基础课程笔记](https://github.com/dwqs/blog/issues/79)
+
 ### 2019-08
 * [从 Hello World 看 RN 的启动流程(一)](https://github.com/dwqs/blog/issues/75)
 * [从 Hello World 看 RN 的启动流程(二)](https://github.com/dwqs/blog/issues/76)

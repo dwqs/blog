@@ -1,4 +1,7 @@
 ## 文章列表
+### 2024-12
+* [基于大模型的本地知识库搭建](https://github.com/dwqs/blog/issues/80)
+
 ### 2024-11
 * [HarmonyOS第一课--基础课程笔记](https://github.com/dwqs/blog/issues/79)
 

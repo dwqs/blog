@@ -1,4 +1,6 @@
 ## 文章列表
+### 2025-01
+* [基于视觉模型的 OCR 识别探究](https://github.com/dwqs/blog/issues/82)
 ### 2024-12
 * [基于大模型的本地知识库搭建](https://github.com/dwqs/blog/issues/80)
 
